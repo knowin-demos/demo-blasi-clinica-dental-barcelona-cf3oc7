@@ -1,0 +1,96 @@
+{
+  "empresa": "BLASI Clínica Dental Barcelona",
+  "web": "https://clinicablasi.com",
+  "sector": "salud",
+  "builder": "elementor",
+  "fecha": "2026-04-25T10:01:18.659Z",
+  "templateVersion": "v6-universal",
+  "aiModel": "catalog-deterministic",
+  "aiCost": "$0.00",
+  "cssPersonalized": true,
+  "cssApproach": "catalog-deterministic-universal",
+  "cssSelectorsUsed": {
+    "sections": "section,.elementor-section,.elementor-top-section,.e-con,[data-elementor-type] .elementor-element,.et_pb_section,.vc_row,.fl-row,.wp-block-group,.wp-block-cover,[class*=\"section\"],[class*=\"Section\"],main>div,.site-content>div",
+    "cards": ".elementor-widget,.elementor-column,.e-con>.e-con-inner,.elementor-widget-wrap>.elementor-element,.elementor-icon-box,.elementor-image-box,.elementor-widget-icon-box,.et_pb_module,.wpb_column,.fl-module,[class*=\"card\"],[class*=\"Card\"],[class*=\"box\"]:not(select):not(input),[class*=\"Box\"]:not(select):not(input),[class*=\"item\"]:not(li):not(option),[class*=\"Item\"]:not(li):not(option)",
+    "buttons": ".elementor-button,.elementor-button-wrapper a,a.elementor-button-link,.elementor-widget-button a,.et_pb_button,.fl-button,.wp-block-button__link,a[class*=\"btn\"],a[class*=\"Btn\"],a[class*=\"button\"],a[class*=\"Button\"],button[type=\"submit\"],input[type=\"submit\"],[role=\"button\"]",
+    "nav": "header,nav,#masthead,.elementor-location-header,.e-con[data-settings*=\"sticky\"],.site-header,[class*=\"header\"],[class*=\"Header\"],[class*=\"navbar\"],[class*=\"nav-bar\"],[class*=\"top-bar\"]"
+  },
+  "siteAnalysis": {
+    "builder": "elementor",
+    "fonts": [
+      "eicons}.elementor-custom-embed-play.elementor-playing i:before{content:",
+      "inherit",
+      "eicons",
+      "var( --e-global-typography-text-font-family )",
+      "Plus Jakarta Sans"
+    ],
+    "colors": [
+      "#fff",
+      "rgba(0,0,0,.3)",
+      "#69727d",
+      "#1f2124",
+      "rgba(0,0,0,.1)"
+    ],
+    "hasStickyHeader": false,
+    "hasTestimonials": true,
+    "hasSlider": true,
+    "hasGallery": true,
+    "imgCount": 24,
+    "formCount": 1
+  },
+  "improvements": [
+    "URLs relativas → absolutas (base: https://clinicablasi.com)",
+    "Meta referrer no-referrer (evita bloqueo CSS)",
+    "CSS catálogo v6 — selectores universales multi-builder (determinista, 0 latencia)",
+    "Banner demo + barra de progreso",
+    "8 imgs lazy loading",
+    "Bunny Fonts (GDPR)"
+  ],
+  "wowEffects": [
+    "E1 — Scroll reveal secciones (animation-timeline:view)",
+    "E1f — Fallback IntersectionObserver + .kn-vis",
+    "E3 — Hover premium en tarjetas (elevación + sombra)",
+    "E4 — Hover botones (elevación + sombra brand)",
+    "E5 — Zoom suave en imágenes (scale 1.05)",
+    "E6 — Barra progreso scroll (gradient fija arriba)",
+    "E7 — Glassmorphism header (backdrop-filter, condicional)",
+    "E9 — Input focus glow brand (condicional)",
+    "E10 — ::selection branded",
+    "E11 — Footer separador gradient",
+    "E12 — Heading reveal (letter-spacing animate)",
+    "E13 — Link underline animado",
+    "E14 — WhatsApp flotante con pulso (condicional)",
+    "E15 — Global: font rendering",
+    "FIX — overflow-x containment",
+    "FIX — meta referrer no-referrer",
+    "FIX — CSS/srcset URLs absolutas",
+    "FIX — fallback scroll-timeline universal",
+    "REDUCED-MOTION — prefers-reduced-motion safety"
+  ],
+  "preservedContent": "HTML original 100% intacto",
+  "extractedData": {
+    "phone": "+34934146404",
+    "email": "info@clinicablasi.com",
+    "address": "C/ de Muntaner, 341, Sarrià-Sant Gervasi 08021 Barcelona",
+    "jsonLdFound": false
+  },
+  "performance": {
+    "lazyLoading": 8,
+    "webpConversion": 0,
+    "fontOptimization": "bunny-fonts",
+    "trackingRemoved": true
+  },
+  "seo": {
+    "metaTags": {
+      "openGraph": "added_missing",
+      "geoTags": "added"
+    },
+    "schemaOrg": {
+      "localBusiness": "MedicalBusiness",
+      "faqPage": "in_nosotros_page"
+    },
+    "content": {
+      "altTexts": "5 fixed"
+    }
+  }
+}
